@@ -1,0 +1,70 @@
+# ------------------
+# General Settings
+# ------------------
+border.width: 1
+border.color: #47464f
+padding.height: 4
+corner.radius: 0
+window.titlebar.padding.height: 2
+window.titlebar.padding.width: 5
+window.label.text.justify: center
+
+# --------------------
+# Buttons
+# ---------------------
+window.button.height: 22
+window.button.width: 28
+window.button.spacing: 0
+
+# ---------------------
+# Active Window
+# ---------------------
+window.active.title.bg.color: #141318
+window.active.label.text.color: #e5e1e9
+
+# ----------------------
+# Inactive Window
+# ----------------------
+window.inactive.title.bg.color: #141318
+window.inactive.label.text.color: #e5e1e9
+
+# -----------------------
+# Menu
+# -----------------------
+menu.items.bg.color: #1c1b20
+menu.items.text.color: #e5e1e9
+menu.items.active.bg.color: #454077
+#menu.items.active.bg.color: #35343a
+menu.items.active.text.color: #e5e1e9
+menu.border.width: 1
+menu.border.color: #47464f
+menu.separator.width: 1
+menu.separator.padding.width: 6
+menu.separator.padding.height: 3
+menu.separator.color: #c6bfff
+menu.items.padding.x: 6
+menu.items.padding.y: 4
+menu.width.min: 140
+menu.width.max: 300
+menu.overlap.x: -4
+menu.overlap.y: 0
+
+# ----------------------------
+# On-Screen Display (OSD)
+# ----------------------------
+osd.bg.color: #1c1b20
+osd.label.text.color: #c6bfff
+osd.border.width: 1
+osd.border.color: #47464f
+osd.window-switcher.width: 800
+osd.window-switcher.padding: 8
+osd.window-switcher.item.padding.x: 12
+osd.window-switcher.item.padding.y: 12
+osd.window-switcher.item.active.border.width: 1
+osd.window-switcher.preview.border.width: 2
+osd.window-switcher.preview.border.color: #c6bfff
+osd.workspace-switcher.boxes.width: 150
+osd.workspace-switcher.boxes.height: 40
+osd.workspace-switcher.boxes.border.width: 1
+snapping.overlay.edge.bg.color: #c6bfff80
+snapping.overlay.region.bg.color: #c6bfff80

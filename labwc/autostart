@@ -1,0 +1,9 @@
+lxqt-policykit-agent &
+
+wlr-randr --output DP-5 --scale 1.5
+
+mako >/dev/null 2>&1 &
+
+swaybg -i .config/bg1.png >/dev/null 2>&1 &
+
+sfwbar &
